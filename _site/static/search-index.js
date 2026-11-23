@@ -1,0 +1,1 @@
+window.__SEARCH_INDEX__ = [{"title":"Amaretto Old Fashioned","path":"recipe/amaretto-old-fashioned.html","tags":["amaretto","whiskey"],"ingredients":["Chattanooga 100 proof whiskey","Raffelli Amaretto","Simple syrup","Angostura bitters"]}];
